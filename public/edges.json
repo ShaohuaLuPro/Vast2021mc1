@@ -1,0 +1,572 @@
+[
+  {
+    "source": "Worldwise",
+    "target": "The Truth",
+    "count": 4
+  },
+  {
+    "source": "Worldwise",
+    "target": "Athena Speaks",
+    "count": 2
+  },
+  {
+    "source": "Worldwise",
+    "target": "The Guide",
+    "count": 7
+  },
+  {
+    "source": "World Source",
+    "target": "World Journal",
+    "count": 6
+  },
+  {
+    "source": "World Source",
+    "target": "The Continent",
+    "count": 4
+  },
+  {
+    "source": "World Source",
+    "target": "News Online Today",
+    "count": 4
+  },
+  {
+    "source": "World Source",
+    "target": "Everyday News",
+    "count": 5
+  },
+  {
+    "source": "World Journal",
+    "target": "The Continent",
+    "count": 3
+  },
+  {
+    "source": "World Journal",
+    "target": "Everyday News",
+    "count": 2
+  },
+  {
+    "source": "World Journal",
+    "target": "World Source",
+    "count": 1
+  },
+  {
+    "source": "Who What News",
+    "target": "The Tulip",
+    "count": 4
+  },
+  {
+    "source": "Who What News",
+    "target": "The Light of Truth",
+    "count": 8
+  },
+  {
+    "source": "Who What News",
+    "target": "The General Post",
+    "count": 7
+  },
+  {
+    "source": "Who What News",
+    "target": "News Online Today",
+    "count": 1
+  },
+  {
+    "source": "Who What News",
+    "target": "The Abila Post",
+    "count": 1
+  },
+  {
+    "source": "Who What News",
+    "target": "Central Bulletin",
+    "count": 1
+  },
+  {
+    "source": "The Wrap",
+    "target": "The Orb",
+    "count": 6
+  },
+  {
+    "source": "The Wrap",
+    "target": "Daily Pegasus",
+    "count": 4
+  },
+  {
+    "source": "The Wrap",
+    "target": "The Wrap",
+    "count": 2
+  },
+  {
+    "source": "The World",
+    "target": "Who What News",
+    "count": 9
+  },
+  {
+    "source": "The World",
+    "target": "The Light of Truth",
+    "count": 14
+  },
+  {
+    "source": "The World",
+    "target": "The General Post",
+    "count": 14
+  },
+  {
+    "source": "The World",
+    "target": "News Online Today",
+    "count": 9
+  },
+  {
+    "source": "The World",
+    "target": "The Tulip",
+    "count": 12
+  },
+  {
+    "source": "The Tulip",
+    "target": "The Light of Truth",
+    "count": 3
+  },
+  {
+    "source": "The Tulip",
+    "target": "The General Post",
+    "count": 2
+  },
+  {
+    "source": "The Tulip",
+    "target": "News Desk",
+    "count": 1
+  },
+  {
+    "source": "The Truth",
+    "target": "Worldwise",
+    "count": 3
+  },
+  {
+    "source": "The Truth",
+    "target": "The Guide",
+    "count": 3
+  },
+  {
+    "source": "The Truth",
+    "target": "News Desk",
+    "count": 2
+  },
+  {
+    "source": "The Orb",
+    "target": "Daily Pegasus",
+    "count": 7
+  },
+  {
+    "source": "The Orb",
+    "target": "The Wrap",
+    "count": 6
+  },
+  {
+    "source": "The Orb",
+    "target": "The Orb",
+    "count": 2
+  },
+  {
+    "source": "The Orb",
+    "target": "Homeland Illumination",
+    "count": 1
+  },
+  {
+    "source": "The Light of Truth",
+    "target": "The Tulip",
+    "count": 2
+  },
+  {
+    "source": "The Light of Truth",
+    "target": "The General Post",
+    "count": 4
+  },
+  {
+    "source": "The Guide",
+    "target": "The Explainer",
+    "count": 1
+  },
+  {
+    "source": "The Guide",
+    "target": "Worldwise",
+    "count": 4
+  },
+  {
+    "source": "The Guide",
+    "target": "The Truth",
+    "count": 2
+  },
+  {
+    "source": "The General Post",
+    "target": "The Tulip",
+    "count": 1
+  },
+  {
+    "source": "The Explainer",
+    "target": "Athena Speaks",
+    "count": 5
+  },
+  {
+    "source": "The Explainer",
+    "target": "News Desk",
+    "count": 2
+  },
+  {
+    "source": "The Continent",
+    "target": "World Journal",
+    "count": 3
+  },
+  {
+    "source": "The Continent",
+    "target": "Everyday News",
+    "count": 3
+  },
+  {
+    "source": "The Abila Post",
+    "target": "The Explainer",
+    "count": 17
+  },
+  {
+    "source": "The Abila Post",
+    "target": "Central Bulletin",
+    "count": 14
+  },
+  {
+    "source": "The Abila Post",
+    "target": "Athena Speaks",
+    "count": 17
+  },
+  {
+    "source": "The Abila Post",
+    "target": "News Online Today",
+    "count": 11
+  },
+  {
+    "source": "The Abila Post",
+    "target": "News Desk",
+    "count": 16
+  },
+  {
+    "source": "The Abila Post",
+    "target": "The Guide",
+    "count": 1
+  },
+  {
+    "source": "News Online Today",
+    "target": "The Truth",
+    "count": 2
+  },
+  {
+    "source": "News Online Today",
+    "target": "Who What News",
+    "count": 3
+  },
+  {
+    "source": "News Online Today",
+    "target": "The Abila Post",
+    "count": 1
+  },
+  {
+    "source": "News Online Today",
+    "target": "Central Bulletin",
+    "count": 6
+  },
+  {
+    "source": "News Online Today",
+    "target": "Everyday News",
+    "count": 2
+  },
+  {
+    "source": "News Online Today",
+    "target": "The Guide",
+    "count": 2
+  },
+  {
+    "source": "News Online Today",
+    "target": "News Online Today",
+    "count": 3
+  },
+  {
+    "source": "News Online Today",
+    "target": "Homeland Illumination",
+    "count": 1
+  },
+  {
+    "source": "News Online Today",
+    "target": "All News Today",
+    "count": 1
+  },
+  {
+    "source": "News Online Today",
+    "target": "The Tulip",
+    "count": 2
+  },
+  {
+    "source": "News Online Today",
+    "target": "International News",
+    "count": 1
+  },
+  {
+    "source": "News Online Today",
+    "target": "The Orb",
+    "count": 1
+  },
+  {
+    "source": "News Online Today",
+    "target": "Daily Pegasus",
+    "count": 1
+  },
+  {
+    "source": "News Online Today",
+    "target": "Athena Speaks",
+    "count": 3
+  },
+  {
+    "source": "News Online Today",
+    "target": "The Explainer",
+    "count": 2
+  },
+  {
+    "source": "News Online Today",
+    "target": "The General Post",
+    "count": 1
+  },
+  {
+    "source": "News Online Today",
+    "target": "The Light of Truth",
+    "count": 1
+  },
+  {
+    "source": "News Online Today",
+    "target": "News Desk",
+    "count": 1
+  },
+  {
+    "source": "News Online Today",
+    "target": "The Wrap",
+    "count": 1
+  },
+  {
+    "source": "News Desk",
+    "target": "Athena Speaks",
+    "count": 5
+  },
+  {
+    "source": "News Desk",
+    "target": "The Explainer",
+    "count": 3
+  },
+  {
+    "source": "News Desk",
+    "target": "The Truth",
+    "count": 1
+  },
+  {
+    "source": "Kronos Star",
+    "target": "Worldwise",
+    "count": 22
+  },
+  {
+    "source": "Kronos Star",
+    "target": "The Truth",
+    "count": 23
+  },
+  {
+    "source": "Kronos Star",
+    "target": "The Guide",
+    "count": 22
+  },
+  {
+    "source": "Kronos Star",
+    "target": "The Explainer",
+    "count": 1
+  },
+  {
+    "source": "Kronos Star",
+    "target": "News Online Today",
+    "count": 19
+  },
+  {
+    "source": "Kronos Star",
+    "target": "Central Bulletin",
+    "count": 2
+  },
+  {
+    "source": "Kronos Star",
+    "target": "International News",
+    "count": 10
+  },
+  {
+    "source": "Kronos Star",
+    "target": "The Abila Post",
+    "count": 2
+  },
+  {
+    "source": "International Times",
+    "target": "World Journal",
+    "count": 11
+  },
+  {
+    "source": "International Times",
+    "target": "The Continent",
+    "count": 11
+  },
+  {
+    "source": "International Times",
+    "target": "News Online Today",
+    "count": 10
+  },
+  {
+    "source": "International Times",
+    "target": "Everyday News",
+    "count": 10
+  },
+  {
+    "source": "International Times",
+    "target": "World Source",
+    "count": 2
+  },
+  {
+    "source": "International News",
+    "target": "Worldwise",
+    "count": 9
+  },
+  {
+    "source": "International News",
+    "target": "The Truth",
+    "count": 5
+  },
+  {
+    "source": "International News",
+    "target": "The Guide",
+    "count": 8
+  },
+  {
+    "source": "International News",
+    "target": "News Online Today",
+    "count": 4
+  },
+  {
+    "source": "International News",
+    "target": "Central Bulletin",
+    "count": 2
+  },
+  {
+    "source": "International News",
+    "target": "The Abila Post",
+    "count": 1
+  },
+  {
+    "source": "Homeland Illumination",
+    "target": "The Wrap",
+    "count": 23
+  },
+  {
+    "source": "Homeland Illumination",
+    "target": "The Orb",
+    "count": 24
+  },
+  {
+    "source": "Homeland Illumination",
+    "target": "News Online Today",
+    "count": 20
+  },
+  {
+    "source": "Homeland Illumination",
+    "target": "Daily Pegasus",
+    "count": 22
+  },
+  {
+    "source": "Homeland Illumination",
+    "target": "All News Today",
+    "count": 12
+  },
+  {
+    "source": "Homeland Illumination",
+    "target": "Homeland Illumination",
+    "count": 2
+  },
+  {
+    "source": "Everyday News",
+    "target": "World Journal",
+    "count": 2
+  },
+  {
+    "source": "Everyday News",
+    "target": "World Source",
+    "count": 1
+  },
+  {
+    "source": "Everyday News",
+    "target": "The Continent",
+    "count": 1
+  },
+  {
+    "source": "Daily Pegasus",
+    "target": "The Wrap",
+    "count": 4
+  },
+  {
+    "source": "Daily Pegasus",
+    "target": "Daily Pegasus",
+    "count": 2
+  },
+  {
+    "source": "Daily Pegasus",
+    "target": "The Orb",
+    "count": 7
+  },
+  {
+    "source": "Central Bulletin",
+    "target": "The Truth",
+    "count": 1
+  },
+  {
+    "source": "Central Bulletin",
+    "target": "The Explainer",
+    "count": 8
+  },
+  {
+    "source": "Central Bulletin",
+    "target": "Athena Speaks",
+    "count": 8
+  },
+  {
+    "source": "Central Bulletin",
+    "target": "News Desk",
+    "count": 6
+  },
+  {
+    "source": "Central Bulletin",
+    "target": "News Online Today",
+    "count": 1
+  },
+  {
+    "source": "Athena Speaks",
+    "target": "The Explainer",
+    "count": 2
+  },
+  {
+    "source": "Athena Speaks",
+    "target": "News Desk",
+    "count": 2
+  },
+  {
+    "source": "All News Today",
+    "target": "The Wrap",
+    "count": 9
+  },
+  {
+    "source": "All News Today",
+    "target": "The Orb",
+    "count": 11
+  },
+  {
+    "source": "All News Today",
+    "target": "Daily Pegasus",
+    "count": 10
+  },
+  {
+    "source": "All News Today",
+    "target": "News Online Today",
+    "count": 4
+  }
+]

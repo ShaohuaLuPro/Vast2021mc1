@@ -1,0 +1,176 @@
+[
+  {
+    "id": "Worldwise",
+    "type": "derivative",
+    "out": 13,
+    "inn": 38
+  },
+  {
+    "id": "World Source",
+    "type": "primary",
+    "out": 19,
+    "inn": 4
+  },
+  {
+    "id": "World Journal",
+    "type": "derivative",
+    "out": 6,
+    "inn": 22
+  },
+  {
+    "id": "Who What News",
+    "type": "primary",
+    "out": 22,
+    "inn": 12
+  },
+  {
+    "id": "The Wrap",
+    "type": "derivative",
+    "out": 12,
+    "inn": 45
+  },
+  {
+    "id": "The World",
+    "type": "primary",
+    "out": 58,
+    "inn": 0
+  },
+  {
+    "id": "The Tulip",
+    "type": "derivative",
+    "out": 6,
+    "inn": 21
+  },
+  {
+    "id": "The Truth",
+    "type": "derivative",
+    "out": 8,
+    "inn": 38
+  },
+  {
+    "id": "The Orb",
+    "type": "derivative",
+    "out": 16,
+    "inn": 51
+  },
+  {
+    "id": "The Light of Truth",
+    "type": "derivative",
+    "out": 6,
+    "inn": 26
+  },
+  {
+    "id": "The Guide",
+    "type": "derivative",
+    "out": 7,
+    "inn": 43
+  },
+  {
+    "id": "The General Post",
+    "type": "derivative",
+    "out": 1,
+    "inn": 28
+  },
+  {
+    "id": "The Explainer",
+    "type": "derivative",
+    "out": 7,
+    "inn": 34
+  },
+  {
+    "id": "The Continent",
+    "type": "derivative",
+    "out": 6,
+    "inn": 19
+  },
+  {
+    "id": "The Abila Post",
+    "type": "primary",
+    "out": 76,
+    "inn": 5
+  },
+  {
+    "id": "Tethys News",
+    "type": "primary",
+    "out": 0,
+    "inn": 0
+  },
+  {
+    "id": "News Online Today",
+    "type": "primary",
+    "out": 35,
+    "inn": 86
+  },
+  {
+    "id": "News Desk",
+    "type": "derivative",
+    "out": 9,
+    "inn": 30
+  },
+  {
+    "id": "Modern Rubicon",
+    "type": "primary",
+    "out": 0,
+    "inn": 0
+  },
+  {
+    "id": "Kronos Star",
+    "type": "primary",
+    "out": 101,
+    "inn": 0
+  },
+  {
+    "id": "International Times",
+    "type": "primary",
+    "out": 44,
+    "inn": 0
+  },
+  {
+    "id": "International News",
+    "type": "primary",
+    "out": 29,
+    "inn": 11
+  },
+  {
+    "id": "Homeland Illumination",
+    "type": "primary",
+    "out": 103,
+    "inn": 4
+  },
+  {
+    "id": "Everyday News",
+    "type": "derivative",
+    "out": 4,
+    "inn": 22
+  },
+  {
+    "id": "Daily Pegasus",
+    "type": "derivative",
+    "out": 13,
+    "inn": 46
+  },
+  {
+    "id": "Centrum Sentinel",
+    "type": "primary",
+    "out": 0,
+    "inn": 0
+  },
+  {
+    "id": "Central Bulletin",
+    "type": "primary",
+    "out": 24,
+    "inn": 25
+  },
+  {
+    "id": "Athena Speaks",
+    "type": "derivative",
+    "out": 4,
+    "inn": 40
+  },
+  {
+    "id": "All News Today",
+    "type": "primary",
+    "out": 34,
+    "inn": 13
+  }
+]
